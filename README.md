@@ -18,8 +18,8 @@ EDA Playground is an online platform that allows you to edit, simulate, and shar
    - For "Simulator", choose "Aldec Riviera Pro 2023.04".
 
 3. **Copy and Paste the Code**:
-   - Copy the content of `design.sv` from the repository and paste it into the right-hand pane .
-   - Copy the content of `testbench.sv` and paste it into the left_hand_pane.
+   - Copy the content of `design.sv` from the repository and paste it into the right-hand pane.
+   - Copy the content of `testbench.sv` and paste it into the left_hand pane.
 
 4. **Run the Simulation**:
    - Click on the "Run" button to simulate the design.
